@@ -25,7 +25,7 @@ The project follows these conventions:
 1. Clone the repository:
 
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/malikamen/almosafer.git
     ```
 
 2. Open the project in your preferred IDE.
@@ -36,7 +36,7 @@ The project follows these conventions:
 
 ### Reporting
 
-Test execution results and reports can be found in [insert path to the reports folder].
+Test execution results and reports can be found in [test-output/emailable-report.html].
 
 ### Notes
 
