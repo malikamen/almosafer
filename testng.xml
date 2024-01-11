@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Post/get Services under Flights Module">
+    <test verbose="2" name="/Users/automation/IdeaProjects/Seera-Almosafer-DeveloperChallenge">
+        <classes>
+            <class name="TCs.flights.getService">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                    <include name="Test4"/>
+                    <include name="Test5"/>
+                    <include name="Test6"/>
+                    <include name="Test7"/>
+                    <include name="Test8"/>
+                </methods>
+            </class>
+            <class name="TCs.flights.postService">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                    <include name="Test4"/>
+                    <include name="Test5"/>
+                    <include name="Test6"/>
+                    <include name="Test7"/>
+                    <include name="Test8"/>
+                    <include name="Test9"/>
+                    <include name="Test10"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
